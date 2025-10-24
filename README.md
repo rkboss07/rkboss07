@@ -43,7 +43,7 @@
 
 ### 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/rohit-singh-553b63388/" target="_blank">
+  <a href="https://www.linkedin.com/in/rohit-kumar-553b63388/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:rohitsinghxiv@gmail.com" target="_blank">
