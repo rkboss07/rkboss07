@@ -80,8 +80,8 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rkboss07&theme=dracula&hide_border=true" alt="GitHub Streak" /></a>
-  <img src="https://leetcard.jacoblin.cool/rohitsinghxiv?theme=dark&font=Nunito&ext=contest" width="60%"/>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=rkboss07&theme=dracula&hide_border=true" alt="GitHub Streak" width="40%"/></a>
+  <img src="https://leetcard.jacoblin.cool/rohitsinghxiv?theme=dark&font=Nunito&ext=contest" width="40%"/>
 </p>
 
 
