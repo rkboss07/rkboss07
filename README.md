@@ -80,7 +80,7 @@
 ## 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rkboss07&theme=tokyonight" alt="GitHub streak" width="60%"/>
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rkboss07&theme=dracula&hide_border=true)](https://git.io/streak-stats)
   <img src="https://leetcard.jacoblin.cool/rohitsinghxiv?theme=dark&font=Nunito&ext=contest" width="60%"/>
 </p>
 
